@@ -53,4 +53,4 @@ The verify step will inspect if :
 - User www-data exists
 - Host localhost resolves to 127.0.0.1
 
-![kitchen-ci](./_res_/kitchen.gif)
+![kitchen-ci](_res/kitchen.gif)
